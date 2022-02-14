@@ -1,0 +1,29 @@
+_repo: The-Native-Races-of-British-North-America_67333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hambly, Wilfrid D. (Wilfrid Dyson)
+    aliases:
+    - Hambly, W. D. (Wilfrid Dyson)
+    - Hambly, Wilfred D. (Wilfrid Dyson)
+    - Hambly, William D. (William Dyson)
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '54165'
+    url: http://www.gutenberg.org/2009/agents/54165
+description: ''
+gutenberg_issued: '2022-02-06'
+identifiers:
+  gutenberg: '67333'
+language: en
+pgterms:marc905: 20210815120543hambly
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+publication_note: United Kingdom :Oxford University Press,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Native Races of British North America
+url: http://www.gutenberg.org/ebooks/67333
